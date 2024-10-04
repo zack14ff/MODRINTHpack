@@ -1,2 +1,8 @@
-# MODRINTHpack
-pack
+# MODRINTH modspack
+- PACK
+- MY PACK
+- MORE PACK
+- OLD PACK
+- NEW PACK
+- YEA
+*END*
